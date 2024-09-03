@@ -1,0 +1,14 @@
+.information-section {
+    border-radius: 18.89px;
+    background: #363C43;
+    box-shadow: 5.67px 5.67px 3.78px 0px #00000066;
+    padding: 20px 30px;
+}
+
+.information-section .text {
+    color: #969696;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: left;
+    margin-top: 30px;
+}
